@@ -1,0 +1,11 @@
+This is a sample document for testing the highlighting and annotation features of the app.
+
+Here is some text that can be highlighted and annotated. You can select individual words or phrases to create highlights.
+
+When you tap on a word, it will be selected. When you tap on another word, it will create a selection range that can be saved as a highlight.
+
+Once text is highlighted, you can tap on the highlighted text to add annotations and comments.
+
+This system allows for persistent storage of highlights and annotations that will be saved across app sessions.
+
+The app supports both PDF and EPUB documents, though this is a simple text example for demonstration purposes.
